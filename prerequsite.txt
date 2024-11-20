@@ -1,0 +1,11 @@
+#first create folder Gemini ur wish like using cmd prompt or create newfolder in c drive
+1. open the  u create new folder then 
+    * conda create -p venv python==3.10 we have to create conda
+2. create requirements.txt folder
+3.run the requirements.txt folder 
+    * pip install -r requirements.txt
+
+4. create ".env" file for GOOGLE_ API_KEY =""   
+5. after thet create app.py file
+write the code and run the file using 
+    * streamlit run app.py    
